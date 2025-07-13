@@ -14,7 +14,7 @@ Open and view bank accounts
 
 Perform and track transactions
 
-Manage loan information
+Manage loan information   
 
 View records by ID or view all records
 
